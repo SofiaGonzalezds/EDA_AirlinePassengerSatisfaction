@@ -6,8 +6,8 @@ This repository contains:
 
 - **airline_passenger_satisfaction.csv**: Contains the dataset used for the analysis.
   
-- **presentation.pdf**: A document that summarizes and visualizes the main findings and conclusions of the analysis.
+- **Power BI Dashboard Link**: A document that summarizes and visualizes the main findings and conclusions of the analysis.
   
-- **airline_satisfaction_eda.R**: R source code used to carry out the exploratory analysis, providing detailed insights into the nature of the dataset.
+- **EDA.R**: R source code used to carry out the exploratory analysis, providing detailed insights into the nature of the dataset.
   
-- **Power BI Dashboard Link**: An interactive dashboard that allows users to visualize the dataset interactively, with the goal of gaining a deeper understanding of the data.
+- **dasboardlink**: An interactive dashboard that allows users to visualize the dataset interactively, with the goal of gaining a deeper understanding of the data.
