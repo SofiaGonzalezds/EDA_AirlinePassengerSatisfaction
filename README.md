@@ -1,12 +1,13 @@
 # Airline Passenger Satisfaction Exploratory Analysis
 
-Este repositorio presenta un análisis exploratorio de la base de datos "Airline_Passenger_Satisfaction" realizado por Sofía González del Solar en el marco del primer examen de la materia "Análisis Predictivo". 
-El repositorio cuenta con:
+This repository presents an exploratory analysis of the "Airline Passenger Satisfaction" dataset, carried out by Sofía González del Solar as part of the first exam for the course "Predictive Analysis".
 
-- Archivo Airline_Passenger_Satisfaction.csv: Contiene la base de datos utilizada.
+This repository contains:
+
+- **airline_passenger_satisfaction.csv**: Contains the dataset used for the analysis.
   
-- Archivo PDF de Presentación: Documento que resume y visualiza los principales hallazgos y conclusiones del análisis.
+- **presentation.pdf**: A document that summarizes and visualizes the main findings and conclusions of the analysis.
   
-- Archivo EDA.R: El código fuente en R utilizado para llevar a cabo el análisis, proporcionando insights detallados sobre la naturaleza de la base de datos.
+- **airline_satisfaction_eda.R**: R source code used to carry out the exploratory analysis, providing detailed insights into the nature of the dataset.
   
-- Enlace al Dashboard en PowerBI:  Tablero interactivo que permite visualizar los datos de la base de manera interactiva, con el objetivo de lograr un mayor entendimiento de los datos.
+- **Power BI Dashboard Link**: An interactive dashboard that allows users to visualize the dataset interactively, with the goal of gaining a deeper understanding of the data.
